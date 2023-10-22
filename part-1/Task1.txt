@@ -1,0 +1,70 @@
+TASK
+
+1.	Ekstraksi dan Pengumpulan Data: Seorang Data Engineer bertugas sebagai “penjaring data” pertama dalam ekosistem analisis data. 
+Tugas pertama mereka adalah mengidentifikasi dan mengakses berbagai sumber data. 
+Ini dapat meliputi relational database, data streaming dari sensor, file teks, API, dan banyak lagi. 
+Data Engineer akan memanfaatkan hard skill yang mereka miliki, misalnya penggunaan bahasa pemrograman seperti Python atau Java, untuk membangun alat-alat atau script yang mengekstraksi data dari sumber-sumber ini dengan efisien.
+
+Transformasi dan Pembersihan Data: Setelah mendapatkan data, bukan berarti data tersebut bisa langsung digunakan untuk analisis. 
+Biasanya data mentah jarang sekali ada yang cocok dengan kebutuhan analisis. 
+Data Engineer bertanggung jawab untuk membersihkan, mentransformasi, dan mempersiapkan data agar sesuai dengan format yang telah ditentukan. 
+Proses inilah yang dikenal sebagai proses ETL (Ekstraksi, Transformasi, dan Pembersihan). 
+Data Engineer akan menggunakan skill SQL untuk memfilter, menggabungkan, dan mengubah data agar sesuai dengan kebutuhan analis.
+
+Pemodelan Data: Setelah data bersih, Data Engineer akan merancang skema database dan data warehouse. 
+Ini merupakan tugas yang membutuhkan pemahaman yang mendalam tentang pemodelan data, termasuk normalisasi dan denormalisasi. 
+Skema yang baik akan memastikan data tersimpan secara efisien dan dapat diakses dengan cepat oleh pengguna akhir.
+
+Manajemen Aliran Kerja Data: Data tidak hanya bergerak dari titik A ke titik B saja, namun akan ada banyak flow yang terbentuk. 
+Seorang Data Engineer bertanggung jawab untuk merancang dan membangun infrastruktur data yang diperlukan untuk mengumpulkan, memproses, dan menganalisis data. 
+Mereka juga bertanggung jawab untuk memelihara dan mengembangkan infrastruktur data yang sudah ada.
+
+Seorang Data Engineer bertanggung jawab untuk merancang, mengembangkan, serta memelihara infrastruktur data yang kompleks agar organisasi dapat menghasilkan informasi berharga dari data. 
+Tanpa Data Engineer, Data Analyst dan Data Scientist pasti akan kesulitan dalam memproses data menjadi informasi.
+
+Peran seorang Data Scientist adalah untuk menganalisis dan menafsirkan informasi dari data4. 
+Mereka menggunakan teknik statistik dan machine learning untuk mengekstrak pengetahuan dari dataset besar. 
+Sementara itu, peran seorang Data Analyst adalah untuk menganalisis informasi dari data. 
+Mereka menggunakan teknik statistik dasar untuk mengekstrak pengetahuan dari dataset kecil. 
+Perbedaan utama antara peran seorang Data Scientist dan Data Analyst adalah bahwa Data Scientist lebih fokus pada pengembangan model prediktif sementara Data Analyst lebih fokus pada pengambilan keputusan bisnis.
+
+
+2.	Ekstraksi dan Pengumpulan Data: Seorang Data Engineer bertugas sebagai “penjaring data” pertama dalam ekosistem analisis data. 
+Tugas pertama mereka adalah mengidentifikasi dan mengakses berbagai sumber data. 
+Ini dapat meliputi relational database, data streaming dari sensor, file teks, API, dan banyak lagi. 
+Data Engineer akan memanfaatkan hard skill yang mereka miliki, misalnya penggunaan bahasa pemrograman seperti Python atau Java, untuk membangun alat-alat atau script yang mengekstraksi data dari sumber-sumber ini dengan efisien. 
+Sementara itu, Data Scientist juga harus memiliki kemampuan untuk mengakses dan mengekstraksi data dari berbagai sumber.
+
+Transformasi dan Pembersihan Data: Setelah mendapatkan data, bukan berarti data tersebut bisa langsung digunakan untuk analisis. 
+Biasanya data mentah jarang sekali ada yang cocok dengan kebutuhan analisis. 
+Data Engineer bertanggung jawab untuk membersihkan, mentransformasi, dan mempersiapkan data agar sesuai dengan format yang telah ditentukan. 
+Proses inilah yang dikenal sebagai proses ETL (Ekstraksi, Transformasi, dan Pembersihan). 
+Data Engineer akan menggunakan skill SQL untuk memfilter, menggabungkan, dan mengubah data agar sesuai dengan kebutuhan analis. 
+Sementara itu, Data Analyst juga harus memiliki kemampuan untuk membersihkan dan mempersiapkan data.
+
+Pemodelan Data: Setelah data bersih, Data Engineer akan merancang skema database dan data warehouse. 
+Ini merupakan tugas yang membutuhkan pemahaman yang mendalam tentang pemodelan data, termasuk normalisasi dan denormalisasi. 
+Skema yang baik akan memastikan data tersimpan secara efisien dan dapat diakses dengan cepat oleh pengguna akhir. 
+Sementara itu, Data Scientist juga harus memiliki kemampuan untuk merancang skema database.
+
+
+
+Manajemen Aliran Kerja Data: Data tidak hanya bergerak dari titik A ke titik B saja, namun akan ada banyak flow yang terbentuk. 
+Seorang Data Engineer bertanggung jawab untuk merancang dan membangun infrastruktur data yang diperlukan untuk mengumpulkan, memproses, dan menganalisis data. 
+Mereka juga bertanggung jawab untuk memelihara dan mengembangkan infrastruktur data yang sudah ada. 
+Sementara itu, Data Scientist juga harus memiliki kemampuan untuk merancang alur kerja (workflow) analisis data.
+
+
+3.	Proses ETL (Extract, Transform, Load), data diambil dari sumbernya, kemudian diolah dan ditransformasi menjadi format yang diinginkan, dan akhirnya dimuat ke dalam sistem target. 
+Proses ini membutuhkan banyak langkah-langkah pengolahan data, namun lebih efisien dalam biaya karena hanya hasil transformasi data saja yang disimpan.
+
+Proses ELT (Extract, Load, Transform), data diambil dari sumbernya dan dimuat ke dalam sistem target terlebih dahulu. 
+Kemudian, data tersebut diolah atau ditransformasikan sesuai kebutuhan user. 
+Proses ini membutuhkan biaya yang lebih mahal karena raw datanya disimpan dan hasil transformasinya juga disimpan.
+
+
+
+
+
+
+
